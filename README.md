@@ -9,8 +9,8 @@ A residual (remnant) and a reliability is calculated when two meshes, two CMDs, 
 
 The idea is to reduce these two parameters as much as possible. 
 
-[1](figures/Bruto_IAC.png)
-[2](figures/DistribuciónCeldas_IAC.png)
-[2a](figures/Mallado_IAC.png)
-[2b](figures/Mallado.png)
-[3](figures/Post_Mallado.png)
+![1](/figures/Bruto_IAC.png)
+![2](figures/DistribuciónCeldas_IAC.png)
+![2a](figures/Mallado_IAC.png)
+![2b](figures/Mallado.png)
+![3](figures/Post_Mallado.png)
