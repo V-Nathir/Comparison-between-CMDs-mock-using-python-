@@ -15,6 +15,6 @@ The idea is to reduce these two parameters as much as possible.
 ![2a](figures/Mallado_IAC.png)
 
 Two overlapping CMD :
-![12](/figures/Brut.png)
+![12](/figures/Bruto.png)
 ![2b](figures/Mallado.png)
 ![3](figures/Post_Mallado.png)
